@@ -1,14 +1,8 @@
-# Welcome!
-
- 
-
-## I'm Hércules Cawarinny!
+## Hello Word, I'm Hércules Cawarinny!
 
  
 
 :computer: I'm web Developer & Mobile!
-
-:house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning Machine learning.
 
