@@ -16,7 +16,7 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Cawarinny)](https://github.com/Cawarinny)
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Cawarinny)
 
 ![Gmail_Bandge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.instagram.com/herculescawarinny/)
 
